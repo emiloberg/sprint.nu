@@ -1,7 +1,7 @@
 Sprint.nu
 =========
 
-This is a very small lunch hack script that grabs the name and release date of the current sprint of a Jira installation and displays it on a web page.
+This is a very small lunch hack script that grabs the name and release date of the current sprint of a Jira agile board and displays it on a web page.
 
 
 ## Demo
