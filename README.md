@@ -9,7 +9,7 @@ Real life demo: [sprint.nu](http://www.sprint.nu)
 
 
 ## Instructions
-1. Set the username, password and url to your Jira, below.
+1. Set the username, password and url to your Jira, at the top of the script.
 2. Make sure `$getBoardIDsMode` is set to 'true';
 3. Visit the page. You'll now see a list of boards (projects), grab the `[id]` of the board (project) you want to display
 4. put the ID number in the `$jiraBoardId` variable.
