@@ -5,7 +5,7 @@ This is a very small lunch hack script that grabs the name and release date of t
 
 
 ## Demo
-Real life demo: [sprint.nu](http://www.sprint.nu)
+Real life demo: [sprint.nu](http://www.sprint.nu) and [ig.sprint.nu](http://ig.sprint.nu)
 
 
 ## Instructions
